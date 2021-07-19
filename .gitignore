@@ -1,0 +1,6 @@
+# Игнорировать файлы
+.idea/
+db.sqlite3
+venv/
+migrate.sh
+/polls/migrations
